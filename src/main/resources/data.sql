@@ -1,0 +1,6 @@
+insert into User values ( 1 , sysdate() ,'abc')
+insert into User values ( 2 , sysdate() ,'efg')
+insert into User values ( 3 , sysdate() ,'ijk')
+insert into Post values ( 1101 ,'my first post' ,1)
+insert into Post values ( 1102 ,'my second post' ,1)
+insert into Post values ( 1103 ,'my third post' ,3)
